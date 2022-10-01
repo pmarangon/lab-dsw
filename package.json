@@ -1,0 +1,24 @@
+{
+  "name": "pratica_api",
+  "version": "1.0.0",
+  "description": "\"Projeto para avaliação disciplina Laboratório Desenvolvimento Web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmarangon/lab-dsw.git"
+  },
+  "keywords": [
+    "Node",
+    "Tdd",
+    "Typescript"
+  ],
+  "author": "Paula Masson Marangon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmarangon/lab-dsw/issues"
+  },
+  "homepage": "https://github.com/pmarangon/lab-dsw#readme"
+}
